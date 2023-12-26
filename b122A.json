@@ -6,7 +6,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/LOVE/%E6%96%B0IP%E7%99%BE%E4%BA%8B%E9%80%9A.txt",
+      "url": "https://gcore.jsdelivr.net/gh/jigedos/tvbox1@main/900/in.json",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -17,7 +17,7 @@
           "name": "live",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/LOVE/%E6%96%B0IP%E7%99%BE%E4%BA%8B%E9%80%9A.txt"
+            "proxy://do=live&type=txt&ext=https://gcore.jsdelivr.net/gh/jigedos/tvbox1@main/900/in.json"
           ]
         }
       ]
