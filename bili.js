@@ -55,7 +55,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
     {
       "key": "看B站",
       "name": "B站",
@@ -64,7 +63,15 @@
       "jar": "./jar/bili.jar",
       "ext": "https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html"
     },
-    {"key":"一起看 ","name":"一起1","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+    {
+      "key": "一起看 ",
+      "name": "一起1",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "yqkan_open",
       "name": "一起2",
@@ -75,7 +82,6 @@
       "filterable": 0,
       "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
-
     {
       "key": "鲸落",
       "name": "TVB云",
@@ -86,7 +92,6 @@
       "api": "csp_XBPQ",
       "ext": "./json/TVB云播.json"
     },
-
     {
       "key": "南坊",
       "name": "南坊",
@@ -162,7 +167,6 @@
       "changeable": 0,
       "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
-
     {
       "key": "毛驴",
       "name": "毛驴",
@@ -174,7 +178,17 @@
       "ext": "https://www.maolvys.com/",
       "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
-    {"key":"Czsapp","name":"厂长1","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy33.com/"},
+    {
+      "key": "Czsapp",
+      "name": "厂长1",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy33.com/"
+    },
     {
       "key": "csp_Czsapp",
       "name": "厂长2",
@@ -198,7 +212,6 @@
       "changeable": 0,
       "ext": "./json/nmys.json"
     },
-
     {
       "key": "云播",
       "name": "云播",
@@ -269,7 +282,6 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
     },
-   
     {
       "key": "黑狐",
       "name": "黑狐",
@@ -382,10 +394,18 @@
         "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
-
-
-{"key":"csp_SP33","name":"公众号【非凡工具箱】","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{
+    },
+    {
+      "key": "csp_SP33",
+      "name": "公众号【非凡工具箱】",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "Gitcafe",
       "name": "纸条搜索",
       "type": 3,
@@ -450,24 +470,144 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-
-
-{"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Anime1","name":"日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
-{"key":"csp_Yj1211","name":"网红直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable":1},
-{"key":"Aid","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
-
-
-{"key":"Bili","name":"🅱哔哔合集","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/bilibili.json"},
-{"key":"Biliych","name":"🅱哔哔歌曲","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/biliych.json"},
-{"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://fanty.run.goorm.site/ext/高中课堂.json"},
-
- 
-
+    {
+      "key": "csp_Dm84",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "日本动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "网红直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Aid",
+      "name": "急救教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哔歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/biliych.json"
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童启蒙",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://fanty.run.goorm.site/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
+    },
     {
       "key": "巴士",
       "name": "巴士",
@@ -486,8 +626,6 @@
       "changeable": 0,
       "ext": "./json/alist.json"
     },
-
-
     {
       "key": "JustLive",
       "name": "JustLive",
@@ -497,7 +635,6 @@
       "changeable": 0,
       "jar": "./jar/custom_spider.jar;md5;012dbdf7aebe1c301c6b87be83a213d4"
     }
-
   ],
   "parses": [
     {
