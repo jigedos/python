@@ -87,7 +87,7 @@
     },
     {
       "key": "csp_JianPian",
-      "name": "荐片",
+      "name": "📽️荐片",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "看B站",
-      "name": "B站",
+      "name": "📽️B站",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/bili.jar",
@@ -105,7 +105,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "一起1",
+      "name": "📽️一起1",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -114,7 +114,7 @@
     },
     {
       "key": "yqkan_open",
-      "name": "一起2",
+      "name": "📽️一起2",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "鲸落",
-      "name": "TVB云",
+      "name": "📽️TVB云",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -132,10 +132,19 @@
       "api": "csp_XBPQ",
       "ext": "./json/TVB云播.json"
     },
-
+    {
+      "key": "南坊",
+      "name": "📽️南坊",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+    },
     {
       "key": "加速",
-      "name": "加速",
+      "name": "📽️加速",
       "type": 3,
       "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYs",
@@ -143,10 +152,29 @@
       "quickSearch": 1,
       "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
     },
-
+    {
+      "key": "freeok",
+      "name": "📽️freeBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
+        "分类值": "hot&new&1&2&3&4",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+        "线路标题": "<span>&&</small>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "<p>&&</p>"
+      }
+    },
     {
       "key": "03影院",
-      "name": "03影院",
+      "name": "📽️03影院",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -171,7 +199,7 @@
     },
     {
       "key": "Auete",
-      "name": "奥特",
+      "name": "📽️奥特",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -181,7 +209,7 @@
     },
     {
       "key": "毛驴",
-      "name": "毛驴",
+      "name": "📽️毛驴",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -192,7 +220,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "厂长1",
+      "name": "📽️厂长1",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -203,7 +231,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "厂长2",
+      "name": "📽️厂长2",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -216,7 +244,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "农民",
+      "name": "📽️农民",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -226,7 +254,7 @@
     },
     {
       "key": "云播",
-      "name": "云播",
+      "name": "📽️云播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -259,7 +287,7 @@
     },
     {
       "key": "乌鸦",
-      "name": "乌鸦",
+      "name": "📽️乌鸦",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -296,7 +324,7 @@
     },
     {
       "key": "黑狐",
-      "name": "黑狐",
+      "name": "📽️黑狐",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -339,7 +367,7 @@
     },
     {
       "key": "相声",
-      "name": "相声",
+      "name": "🎭相声",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -374,7 +402,7 @@
     },
     {
       "key": "评书",
-      "name": "评书",
+      "name": "📖评书",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -419,7 +447,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "纸条搜索",
+      "name": "🔍纸条搜索",
       "type": 3,
       "api": "csp_Gitcafe",
       "playerType": 1,
@@ -430,7 +458,7 @@
     },
     {
       "key": "csp_AliPS",
-      "name": "喵狸搜索",
+      "name": "🔍喵狸搜索",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -441,7 +469,7 @@
     },
     {
       "key": "csp_Yisou",
-      "name": "易搜搜索",
+      "name": "🔍易搜搜索",
       "type": 3,
       "api": "csp_Yisou",
       "playerType": 1,
@@ -452,7 +480,7 @@
     },
     {
       "key": "csp_Upyunso",
-      "name": "UP搜搜索",
+      "name": "🔍UP搜搜索",
       "type": 3,
       "api": "csp_Upyunso",
       "playerType": 1,
@@ -463,7 +491,7 @@
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "玩偶哥哥",
+      "name": "👨‍💼玩偶哥哥",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
@@ -474,7 +502,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "玩偶弟弟",
+      "name": "👨‍💼玩偶弟弟",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -484,7 +512,7 @@
     },
     {
       "key": "csp_Dm84",
-      "name": "动漫巴士",
+      "name": "🎉动漫巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -493,7 +521,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "日本动漫",
+      "name": "🎉日本动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -502,7 +530,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "网红直播",
+      "name": "💃网红直播",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -511,7 +539,7 @@
     },
     {
       "key": "Aid",
-      "name": "急救教学",
+      "name": "💊急救教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -622,7 +650,7 @@
     },
     {
       "key": "巴士",
-      "name": "巴士",
+      "name": "🎉巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -640,7 +668,7 @@
     },
     {
       "key": "JustLive",
-      "name": "JustLive",
+      "name": "🎙️JustLive",
       "type": 3,
       "api": "csp_JustLive",
       "searchable": 1,
