@@ -1,12 +1,12 @@
     {
     
-
+    "作者":"荷城茶秀",
     
     "站名":"vs影视",
     
     "主页url":"https://www.ytshengde.com/",
     
-    "简介":"【非凡圈子】提醒您请勿相信影片中的广告。+onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
+    "简介":"【非凡圈子】提醒您请勿相信影片中的广告，以免上当受骗！。+onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
     
     "导演":"导演：&&</p>",
     
@@ -16,7 +16,7 @@
     
     "线路数组":"#playlist&&</li>[不包含:无尽#八戒][排序:秒播>爱坤>优质>量子]",
     
-    "线路标题":"+>&&</a>+线路",
+    "线路标题":"优选接口+>&&</a>+线路",
     
     "分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akx",
     
