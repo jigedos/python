@@ -24,6 +24,16 @@
     }
   ],
   "sites": [
+   {
+      "key": "csp_非凡",
+      "name": "💯【非凡圈子】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/非凡资源网.json"
+    },
     {
       "key": "py_cctv",
       "name": "CCTV转播",
@@ -33,6 +43,36 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
+    },
+    {
+      "key": "js_豆瓣热播",
+      "name": "❣️追剧影院",
+      "type": 3,
+      "api": "./json/Api.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/Doubanrebo.js"
+    },
+    {
+      "key": "csp_骚火",
+      "name": "💯骚火影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/骚火影视.json"
+    },
+    {
+      "key": "csp_威士",
+      "name": "💯威士影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/威士影视.json"
     },
     {
       "key": "push_agent",
