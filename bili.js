@@ -17,7 +17,7 @@
           "name": "live",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gcore.jsdelivr.net/gh/jigedos/tvbox1@main/900/TYZB"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9ib3hsaXZlL3N0cmVhbS9yYXcvbWFzdGVyL3R5emI="
           ]
         }
       ]
@@ -26,7 +26,7 @@
   "sites": [
    {
       "key": "csp_非凡",
-      "name": "💯【非凡圈子】",
+      "name": "💯【非凡圈子】1228",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
