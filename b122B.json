@@ -64,16 +64,7 @@
       "filterable": 1,
       "ext": "./json/骚火影视.json"
     },
-    {
-      "key": "csp_威士",
-      "name": "💯威士影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/威士影视.json"
-    },
+    
     {
       "key": "csp_Free",
       "name": "💯Free影视b",
@@ -86,7 +77,7 @@
     },
     {
       "key": "csp_xBPQ_玖八",
-      "name": "💯玖八影视b",
+      "name": "💯优爱腾A",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
