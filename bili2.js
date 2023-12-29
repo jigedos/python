@@ -6,7 +6,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://gcore.jsdelivr.net/gh/jigedos/tvbox1@main/900/in.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/900/TYZB",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -17,7 +17,7 @@
           "name": "live",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9ib3hsaXZlL3N0cmVhbS9yYXcvbWFzdGVyL2lu"
+            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/900/TYZB"
           ]
         }
       ]
