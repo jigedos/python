@@ -105,6 +105,56 @@
       "filterable": 1,
       "ext": "./json/农民影视.json"
     },
+{
+      "key": "csp_xBPQ_奇优",
+      "name": "💯奇优影视b",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/奇优影视.json"
+    },
+    {
+      "key": "csp_疯狗",
+      "name": "💯疯狗影视b",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/疯狗影视.json"
+    },
+    {
+      "key": "csp_爱看",
+      "name": "💯爱看影视A",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/爱看影视.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "💯官源A",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/七新影视.json"
+    },
+    {
+      "key": "csp_热播",
+      "name": "💯热播之家B",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/热播之家.json"
+    },
 
     {
       "key": "push_agent",
