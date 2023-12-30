@@ -61,7 +61,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
-            "jar": " ./jar/Yoursmile1006.jar",
+            "jar": " ./jar/fan1.txt",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys2"
     },	
 	 {
@@ -70,7 +70,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
-            "jar": " ./jar/Yoursmile1006.jar",
+            "jar": " ./jar/fan1.txt",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys4"
     },	
 		
@@ -80,7 +80,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-            "jar": " ./jar/Yoursmile1006.jar",
+            "jar": " ./jar/fan1.txt",
       "ext": "http://op.ysdqjs.cn"
     },
 		
@@ -126,7 +126,7 @@
       "name": "官源 | 360",
       "type": 3,
       "api": "csp_SP33",
-      "jar": " ./jar/Yoursmile1006.jar",
+      "jar": " ./jar/fan1.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -137,7 +137,7 @@
       "key": "秒看资源",
       "name": "秒看",
       "type": 1,
-            "jar": " ./jar/Yoursmile1006.jar",
+            "jar": " ./jar/fan1.txt",
       "api": "https://www.xy1080.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
@@ -156,7 +156,7 @@
 		 {
       "key": "1a05b72ecc4cb6326f046a5585f3432b",
       "name": "卧龙",
-            "jar": " ./jar/Yoursmile1006.jar",
+            "jar": " ./jar/fan1.txt",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
     },
@@ -164,21 +164,21 @@
  {
       "key": "3a565658ffb7ec926e61756240866e64",
       "name": "无尽",
-              "jar": " ./jar/Yoursmile1006.jar",
+              "jar": " ./jar/fan1.txt",
       "type": 1,
       "api": "https://api.wujinapi.com/api.php/provide/vod/"
     },
     {
       "key": "5c768286e6045c44abdfae6fd627b9fc",
       "name": "天翼",
-              "jar": " ./jar/Yoursmile1006.jar",
+              "jar": " ./jar/fan1.txt",
       "type": 1,
       "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
     },
     {
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
       "name": "淘片",
-              "jar": " ./jar/Yoursmile1006.jar",
+              "jar": " ./jar/fan1.txt",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
     },
