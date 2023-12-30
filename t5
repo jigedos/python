@@ -126,7 +126,7 @@
       "name": "官源 | 360",
       "type": 3,
       "api": "csp_SP33",
-      "jar": " ./jar/fan1.txt",
+      "jar": " ./jar/Yoursmile1006.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -198,6 +198,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
+      "jar": " ./jar/fan1.txt",
       "categories": [
         "连续剧",
         "电影",
