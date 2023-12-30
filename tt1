@@ -146,8 +146,8 @@
       "key": "csp_艺艺",
       "name": "💜奇艺",
       "type": 1,
-                 "jar": " ./jar/fan1.txt",
-      "playerType": 2,
+  "jar": " ./jar/Yoursmile.jar",
+        "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi", 
       "playUrl": "json:http://119.91.123.253:2345/Api/yun.php?url=",
       "categories": [
