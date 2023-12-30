@@ -149,7 +149,7 @@
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi", 
       "playUrl": "json:http://119.91.123.253:2345/Api/yun.php?url=",
-
+   "jar": " ./jar/Yoursmile1006.jar",
       "categories": [
         "电影",
         "电视剧",
