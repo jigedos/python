@@ -73,7 +73,7 @@
     },
     {
       "key": "csp_77",
-      "name": "7️⃣七七",
+      "name": "7️⃣七七【1230更新】",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
