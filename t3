@@ -61,6 +61,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
+            "jar": " ./jar/Yoursmile1006.jar",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys2"
     },	
 	 {
@@ -69,6 +70,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 1,
+            "jar": " ./jar/Yoursmile1006.jar",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys4"
     },	
 		
@@ -78,6 +80,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
+            "jar": " ./jar/Yoursmile1006.jar",
       "ext": "http://op.ysdqjs.cn"
     },
 		
@@ -134,6 +137,7 @@
       "key": "秒看资源",
       "name": "秒看",
       "type": 1,
+            "jar": " ./jar/Yoursmile1006.jar",
       "api": "https://www.xy1080.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
@@ -152,11 +156,55 @@
 		 {
       "key": "1a05b72ecc4cb6326f046a5585f3432b",
       "name": "卧龙",
+            "jar": " ./jar/Yoursmile1006.jar",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
     },
 
-
+ {
+      "key": "3a565658ffb7ec926e61756240866e64",
+      "name": "无尽",
+              "jar": " ./jar/Yoursmile1006.jar",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/"
+    },
+    {
+      "key": "5c768286e6045c44abdfae6fd627b9fc",
+      "name": "天翼",
+              "jar": " ./jar/Yoursmile1006.jar",
+      "type": 1,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
+    },
+    {
+      "key": "e173267b0d7e1f1a1189c22c3bb7b556",
+      "name": "淘片",
+              "jar": " ./jar/Yoursmile1006.jar",
+      "type": 0,
+      "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
+    },
+		
+		
+		
+		
+		
+		
+		
+		 {
+      "key": "琪琪资源",
+      "name": "琪琪 | 采集",
+      "type": 1,
+      "api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "连续剧",
+        "电影",
+        "综艺",
+        "动漫"
+      ]
+    },
     {
       "key": "csp_骚火",
       "name": "💯骚火影视",
