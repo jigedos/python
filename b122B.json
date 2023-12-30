@@ -220,7 +220,7 @@
     },
     {
       "key": "K歌库",
-      "name": "🎤K歌【选[音轨]切换原音/伴奏】",
+      "name": "🎤家庭KTV",
       "type": 1,
       "api": "https://mv.clem7.repl.co/mv/vod?maxCount=200",
       "searchable": 1,
