@@ -44,6 +44,62 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
+     {
+      "key": "csp_qx",
+      "name": "🌸七星视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/zyb.jar",
+      "ext": {
+        "站名": "七新影视",
+        "主页url": "http://www.7xdy.com/",
+        "简介": "您请勿相信影片中的广告，以免上当受骗！💕剧情:👉+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+        "导演": "导演：&&</a>",
+        "主演": "主演：&&</a>",
+        "搜索url": "http://www.7xdy.com/search.php;post;searchword={wd}",
+        "影片状态": "集数：&&</div>",
+        "影片类型": "video-tag-icon\">&&立即播放",
+        "免嗅": "0",
+        "图片": "data-original=\"&&\"",
+        "线路标题": "💕秒播：💕",
+        "线路数组": "<h3&&</h3>",
+        "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
+        "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+      }
+    },
+    {
+      "key": "csp_77",
+      "name": "7️⃣七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/77.jar"
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "⚡迅雷【1230更新】",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/xyqa.jar"
+    },
+    {
+      "key": "js_v2-jrly",
+      "name": "🏵️嘉年华【1230更新】",
+      "type": 3,
+      "api": "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
+      "ext": "./js/嘉良.js"
+    },
+
     {
       "key": "js_豆瓣热播",
       "name": "❣️追剧影院",
