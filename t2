@@ -54,6 +54,109 @@
       "filterable": 0,
       "ext": "./json/Doubanrebo.js"
     },
+
+{
+      "key": "🔱马小宝专线②🏅",
+      "name": "分类方法可以参考",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys2"
+    },	
+	 {
+      "key": "🔱马小宝专线④🏅",
+      "name": "🔱马小宝专线④🏅",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys4"
+    },	
+		
+		  {
+      "key": "🔱马小宝专线⑤🏅",
+      "name": "🔱马小宝专线⑤🏅",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn"
+    },
+		
+		
+	{
+            "key": "天天开心自营",
+            "name": "💛马小宝┃天天开心秒播",
+            "type": 1,
+            "api": "http://www.ttkx.site/api.php/provide/vod/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "战争片",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "国产动漫",
+                "日韩动漫",
+                "港台动漫",
+                "动画片",
+                "短剧",
+                "国产综艺",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "灾难片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "纪录片"
+           ]
+        },	
+		
+		
+		{
+      "key": "360",
+      "name": "官源 | 360",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar": " ./jar/Yoursmile1006.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+		
+	{
+      "key": "秒看资源",
+      "name": "秒看",
+      "type": 1,
+      "api": "https://www.xy1080.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },	
+		
+		
+		
+		
+		
+		 {
+      "key": "1a05b72ecc4cb6326f046a5585f3432b",
+      "name": "卧龙",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
+    },
+
+
     {
       "key": "csp_骚火",
       "name": "💯骚火影视",
