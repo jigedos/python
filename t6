@@ -55,6 +55,111 @@
       "ext": "./json/Doubanrebo.js"
     },
 
+
+ {
+	"key": "XAL蓝光",
+	"name": "🆑XAL",
+	"type": 1,
+	"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+	"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+	"searchable": 1,
+	"quickSearch": 1
+},
+
+{
+    "key": "csp_qx", 
+    "name": "🍁七新",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "playerType":1,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "https://download.kstore.space/download/4928/mfsj/jar/zyb.jar",
+    "ext": {
+    "站名":"七新影视",
+    "主页url":"http://www.7xdy.com/",
+    "简介":"💕玉玉软件库💕提醒您请勿相信影片中的广告，以免上当受骗！💕剧情:👉+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+    "导演":"导演：&&</a>",
+    "主演":"主演：&&</a>",
+    "搜索url":"http://www.7xdy.com/search.php;post;searchword={wd}",
+    "影片状态":"集数：&&</div>",
+    "影片类型":"video-tag-icon\">&&立即播放",
+    "免嗅":"0",
+    "图片":"data-original=\"&&\"",
+    "线路标题":"💕玉玉软件库💕",
+    "线路数组":"<h3&&</h3>",
+    "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
+     
+     
+     
+     
+     
+      {
+  "key":"csp_77",
+  "name":"🥣七七",
+  "type":3,
+  "api":"csp_Kunyu77",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1 ,
+  "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+},
+
+
+		 {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+    },
+	
+        {
+            "key" : "js_v2-jrly",
+            "name" :"💖嘉音",
+            "type" : 3,
+            "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
+            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/嘉良.js"
+        },
+{"key":"csp_lgz_feifei","name":"🤣开心坊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"},
+	{"key":"K歌库","name":"🎤K歌【选[音轨]切换原音/伴奏】","type":1,"api":"https://mv.clem7.repl.co/mv/vod?maxCount=200","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+	
+	    {"key":"宅腐APP","name":"🦄宅腐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
+
+{"key":"新建",
+     "name":"👰新新",
+      "type":3,
+      "api":"csp_AppYsV2",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":"http://4k.953365.cn:8090/xgapp.php/v3/"
+     },
+	
+    {
+      "key": "csp_艺艺",
+      "name": "💜奇艺",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi", 
+      "playUrl": "json:http://119.91.123.253:2345/Api/yun.php?url=",
+
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
+    },
+	
+	  {"key":"小小影视","name":"☁┃小小┃云播","type":1,"api":"http://haowywz.com/api.php/provide/vod/"},
+
 {
       "key": "🔱ACKH🏅",
       "name": "分类方法可以参考",
