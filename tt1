@@ -40,35 +40,40 @@
       "name": "腾讯(官)",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/tengxun.js"
+      "ext": "./js/tengxun.js",
+      "jar":"/jar/Aoki.jar"
     },
    {
       "key": "drpy_js_优酷1",
       "name": "优酷(官)",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/youku.js"
+      "ext": "./js/youku.js",
+      "jar":"/jar/Aoki.jar"
     },
     {
       "key": "搜狗2",
       "name": "搜狗(官)",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/caigou.js"
+      "ext": "./js/caigou.js",
+      "jar":"/jar/Aoki.jar"
     },
     {
       "key":"芒果",
       "name":"芒果(官)",
       "type":3,
       "api":"./js/drpy2.min.js",
-      "ext":"./js/mangguo.js"
+      "ext":"./js/mangguo.js",
+      "jar":"/jar/Aoki.jar"
     },
    {
      "key": "爱奇异",
      "name": "奇艺(官)",
      "type": 3,
      "api": "./js/drpy2.min.js",
-     "ext": "./js/aiqiyi.js"
+     "ext": "./js/aiqiyi.js",
+      "jar":"/jar/Aoki.jar"
     },
     {
       "key": "360_spider",
@@ -77,7 +82,8 @@
       "api": "csp_SP360",
       "filterable": 1,
       "quickSearch": 1,
-      "searchable": 1
+      "searchable": 1,
+      "jar":"/jar/Aoki.jar"
     },
     {
       "key": "新浪资源",
