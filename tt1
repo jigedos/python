@@ -34,6 +34,65 @@
       "filterable": 1,
       "ext": "./json/非凡资源网.json"
     },
+
+   {
+      "key": "腾讯",
+      "name": "腾讯(官)",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/tengxun.js"
+    },
+   {
+      "key": "drpy_js_优酷1",
+      "name": "优酷(官)",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/youku.js"
+    },
+    {
+      "key": "搜狗2",
+      "name": "搜狗(官)",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/caigou.js"
+    },
+    {
+      "key":"芒果",
+      "name":"芒果(官)",
+      "type":3,
+      "api":"./js/drpy2.min.js",
+      "ext":"./js/mangguo.js"
+    },
+   {
+     "key": "爱奇异",
+     "name": "奇艺(官)",
+     "type": 3,
+     "api": "./js/drpy2.min.js",
+     "ext": "./js/aiqiyi.js"
+    },
+    {
+      "key": "360_spider",
+      "name": "360(官)",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
+      "key": "新浪资源",
+      "name": "新浪(官)",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "playUrl": "",
+      "categories": [
+        "大陆剧",
+        "动作片",
+        "动漫",
+        "综艺"
+      ]
+    },
+
     {
       "key": "py_cctv",
       "name": "CCTV转播",
