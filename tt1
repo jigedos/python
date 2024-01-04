@@ -35,69 +35,14 @@
       "ext": "./json/非凡资源网.json"
     },
 
-   {
-      "key": "腾讯",
-      "name": "腾讯(官)",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/tengxun.js",
-      "jar":"/jar/Aoki.jar"
-    },
-   {
-      "key": "drpy_js_优酷1",
-      "name": "优酷(官)",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/youku.js",
-      "jar":"/jar/Aoki.jar"
-    },
-    {
-      "key": "搜狗2",
-      "name": "搜狗(官)",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/caigou.js",
-      "jar":"/jar/Aoki.jar"
-    },
-    {
-      "key":"芒果",
-      "name":"芒果(官)",
-      "type":3,
-      "api":"./js/drpy2.min.js",
-      "ext":"./js/mangguo.js",
-      "jar":"/jar/Aoki.jar"
-    },
-   {
-     "key": "爱奇异",
-     "name": "奇艺(官)",
-     "type": 3,
-     "api": "./js/drpy2.min.js",
-     "ext": "./js/aiqiyi.js",
-      "jar":"/jar/Aoki.jar"
-    },
-    {
-      "key": "360_spider",
-      "name": "360(官)",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar":"/jar/Aoki.jar"
-    },
-    {
-      "key": "新浪资源",
-      "name": "新浪(官)",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "大陆剧",
-        "动作片",
-        "动漫",
-        "综艺"
-      ]
-    },
+ {"key":"酷影","name":"🚛酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:2683/api.php/app/"},
+	
+		
+	{"key":"6V磁力","name":"🚛6V磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/6v.json"},
+	
+	{"key":"电影港","name":"🚛DYG磁┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/dyg.json"},
+	
+	{"key":"4KHDR","name":"🚛HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/4KHDR.json"},
 
     {
       "key": "py_cctv",
@@ -144,7 +89,7 @@
     "ext": {
     "站名":"七新影视",
     "主页url":"http://www.7xdy.com/",
-    "简介":"💕玉玉软件库💕提醒您请勿相信影片中的广告，以免上当受骗！💕剧情:👉+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
+    "简介":"您请勿相信影片中的广告，以免上当受骗！💕剧情:👉+<span class=\"detail-content\" style=\"display: none;\">&&</span>",
     "导演":"导演：&&</a>",
     "主演":"主演：&&</a>",
     "搜索url":"http://www.7xdy.com/search.php;post;searchword={wd}",
@@ -152,7 +97,7 @@
     "影片类型":"video-tag-icon\">&&立即播放",
     "免嗅":"0",
     "图片":"data-original=\"&&\"",
-    "线路标题":"💕玉玉软件库💕",
+    "线路标题":"💕优选💕",
     "线路数组":"<h3&&</h3>",
     "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
     "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
