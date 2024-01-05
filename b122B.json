@@ -45,15 +45,42 @@
       "ext": "./py/py_cctv_1.py"
     },
     {
-      "key": "js_豆瓣热播",
-      "name": "❣️追剧影院",
+      "key": "drpy_js_360影视",
+      "name": "🚩360",
       "type": 3,
-      "api": "./json/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/Doubanrebo.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/360影视.js"
     },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🚩爱奇艺",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "🚩优酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🚩腾讯",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "🚩芒果",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/百忙无果.js"
+    },
+    {
+
     {
       "key": "csp_骚火",
       "name": "💯骚火影视",
