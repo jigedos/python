@@ -78,17 +78,7 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
-    {
-      "key": "csp_77",
-      "name": "7️⃣纯净一线【0108更新】",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/77.jar"
-    },
-    {
+     {
       "key": "csp_Xunlei8",
       "name": "⚡纯净磁力【0108更新】",
       "type": 3,
@@ -99,6 +89,17 @@
       "filterable": 1,
       "jar": "./jar/xyqa.jar"
     },
+    {
+      "key": "csp_77",
+      "name": "💯纯净一线",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/77.jar"
+    },
+   
     
 
     {
@@ -174,22 +175,7 @@
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
     },
-    
       
-    {
-      "key": "新6V",
-      "name": "🧲磁力4K",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/custom_spider.jar;md5;012dbdf7aebe1c301c6b87be83a213d4"
-    },
-   
-   
-  
-      
-   
     {
       "key": "csp_SP33",
       "name": "💯加入【非凡圈子】",
