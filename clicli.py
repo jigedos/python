@@ -1,23 +1,7 @@
 {
   "wallpaper": "http://xhww.fun:63/img.php",
   "spider": "./jar/nb1202.jar;md5;80e2d5045e8cd48beb132870b4a339e0",
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/900/in.json",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/900/in.json"
+  "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ppZ2Vkb3MvdHZib3gxL21haW4vOTAwL3NldGJsb2NraW5nLmZsYWc="
           ]
         }
       ]
