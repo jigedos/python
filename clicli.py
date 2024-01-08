@@ -1,7 +1,14 @@
 {
-  "wallpaper": "http://xhww.fun:63/img.php",
   "spider": "./jar/nb1202.jar;md5;80e2d5045e8cd48beb132870b4a339e0",
-  "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ppZ2Vkb3MvdHZib3gxL21haW4vOTAwL3NldGJsb2NraW5nLmZsYWc="
+  "wallpaper": "http://xhww.fun:63/img.php",
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "『live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ppZ2Vkb3MvdHZib3gxL21haW4vOTAwL3NldGJsb2NraW5nLmZsYWc="
           ]
         }
       ]
@@ -63,8 +70,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/百忙无果.js"
     },
-    
-
     {
       "key": "csp_骚火",
       "name": "💯骚火影视",
@@ -229,7 +234,6 @@
       "filterable": 0,
       "ext": "{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"
     },
-
     {
       "key": "宅腐APP",
       "name": "🌻腐宅",
@@ -265,7 +269,6 @@
       "jar": " ./jar/fan1.txt",
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjys2"
     },
-
     {
       "key": "DGBNS",
       "name": "🌾天天",
@@ -275,8 +278,6 @@
       "jar": " ./jar/fan1.txt",
       "ext": "http://op.ysdqjs.cn"
     },
-    
-   
     {
       "key": "1a05b72ecc4cb6326f046a5585f3432b",
       "name": "🍄卧龙",
@@ -305,7 +306,6 @@
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
     },
-    
     {
       "key": "push_agent",
       "name": "💯辅助推送|T功能",
@@ -429,7 +429,6 @@
       "changeable": 0,
       "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
-
     {
       "key": "csp_Czsapp",
       "name": "✈️厂长2",
@@ -443,7 +442,6 @@
       "filterable": 1,
       "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
-
     {
       "key": "云播",
       "name": "✈️云播",
@@ -576,10 +574,26 @@
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
     },
-    {"key":"6V磁力","name":"🧲6V磁 4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/6v.json"},
-	
-	{"key":"电影港","name":"🧲DYG磁 4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dyg.json"},
-   
+    {
+      "key": "6V磁力",
+      "name": "🧲6V磁 4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/6v.json"
+    },
+    {
+      "key": "电影港",
+      "name": "🧲DYG磁 4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/dyg.json"
+    },
     {
       "key": "csp_SNzy",
       "name": "✈️索尼",
@@ -683,7 +697,6 @@
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
     },
-  
     {
       "key": "毛驴",
       "name": "✈️毛驴",
@@ -890,7 +903,6 @@
         "ratio": 3.8
       }
     },
-
     {
       "key": "戏曲杂苑",
       "name": "🅱戏曲杂苑",
@@ -1058,7 +1070,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
     {
       "key": "幼儿教育",
       "name": "📚幼儿教育",
