@@ -35,6 +35,22 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🚩官源-爱奇艺",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "🚩官源-优酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/优酷.js"
+    },
+   
+
      {
       "key": "csp_qx",
       "name": "🌸七星视界",
@@ -64,7 +80,7 @@
     },
     {
       "key": "csp_77",
-      "name": "7️⃣七七【1230更新】",
+      "name": "7️⃣七七【0108更新】",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -74,7 +90,7 @@
     },
     {
       "key": "csp_Xunlei8",
-      "name": "⚡迅雷【1230更新】",
+      "name": "⚡迅雷【0108更新】",
       "type": 3,
       "api": "csp_Xunlei8",
       "playerType": 1,
@@ -117,16 +133,7 @@
       "ext": "./json/TVB云播.json"
     },
  
-    {
-      "key": "csp_JianPian",
-      "name": "🎬荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "一起看 ",
       "name": "✈️极速2",
@@ -178,7 +185,16 @@
       "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
     },
     
-    
+     {
+      "key": "csp_JianPian",
+      "name": "🎬荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
       
     {
       "key": "新6V",
@@ -189,16 +205,7 @@
       "changeable": 0,
       "jar": "./jar/custom_spider.jar;md5;012dbdf7aebe1c301c6b87be83a213d4"
     },
-    {
-      "key": "新6V",
-      "name": "🧲新6V磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
+   
   
     {
       "key": "csp_SNzy",
