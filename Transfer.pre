@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "csp_非凡",
-      "name": "💯【非凡圈子】体验版",
+      "name": "💯【非凡圈子】体验版0108",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -53,7 +53,7 @@
 
      {
       "key": "csp_qx",
-      "name": "🌸七星视界",
+      "name": "💕稳定高速线",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
@@ -80,7 +80,7 @@
     },
     {
       "key": "csp_77",
-      "name": "7️⃣七七【0108更新】",
+      "name": "7️⃣纯净一线【0108更新】",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -90,7 +90,7 @@
     },
     {
       "key": "csp_Xunlei8",
-      "name": "⚡迅雷【0108更新】",
+      "name": "⚡纯净磁力【0108更新】",
       "type": 3,
       "api": "csp_Xunlei8",
       "playerType": 1,
@@ -103,7 +103,7 @@
 
     {
       "key": "csp_骚火",
-      "name": "💯骚火影视",
+      "name": "💯纯净二线",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -114,7 +114,7 @@
    
     {
       "key": "csp_xBPQ_玖八",
-      "name": "💯优爱腾A",
+      "name": "💯纯净三线",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "csp_TVB",
-      "name": "💯T极速1",
+      "name": "💯纯净四线",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -136,7 +136,7 @@
    
     {
       "key": "一起看 ",
-      "name": "✈️极速2",
+      "name": "✈️秒播一线",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -145,7 +145,7 @@
     },
     {
       "key": "yqkan_open",
-      "name": "✈️极速3",
+      "name": "✈️秒播二线",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -155,7 +155,7 @@
     },
     {
       "key": "鲸落",
-      "name": "🏎️TVB云",
+      "name": "✈️秒播三线",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -166,7 +166,7 @@
     
     {
       "key": "南坊",
-      "name": "✈️极速3",
+      "name": "✈️秒播四线",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -174,31 +174,11 @@
       "changeable": 1,
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
     },
-    {
-      "key": "加速",
-      "name": "✈️加速",
-      "type": 3,
-      "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
-    },
     
-     {
-      "key": "csp_JianPian",
-      "name": "🎬荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
       
     {
       "key": "新6V",
-      "name": "🧲新6V",
+      "name": "🧲磁力4K",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -206,46 +186,23 @@
       "jar": "./jar/custom_spider.jar;md5;012dbdf7aebe1c301c6b87be83a213d4"
     },
    
+   
   
+      
+   
     {
-      "key": "csp_SNzy",
-      "name": "✈️极速4",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "key": "csp_SP33",
+      "name": "💯加入【非凡圈子】",
+      "type": 3,
+      "api": "csp_SP33",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
+      "changeable": 0
     },
-    {
+     {
       "key": "csp_非凡资源",
-      "name": "✈️非凡",
+      "name": "独享秒播资源",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -279,30 +236,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-  
-    
-    {
-      "key": "南坊",
-      "name": "✈️极速5",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
-    },
-  
-   
-    {
-      "key": "csp_SP33",
-      "name": "💯加入【非凡圈子】",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     },
     {
       "key": "Gitcafe",
