@@ -101,7 +101,7 @@
    
     {
       "key": "Voflix",
-      "name": "9🍉Voflix",
+      "name": "9🍉Voflix影院",
       "type": 1,
       "api": "http://voflix.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
