@@ -35,7 +35,6 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
-    {"key":"csp_jy","name":"1🍉辣眼丮【上新】","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/172537/juyou.json?sign=nWaufA0t_rLk6tlG48Y8qzG6n1mgbE1Wg6jOBL0WLNY%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/172536/xb.jar?sign=I86uJTmVLy2JedHwUeftKu6isf0gSmpsHz1O5GsrmuA%3D%3A0"},
 
         {
       "key": "金鹰资源",
@@ -308,16 +307,7 @@
       "filterable": 1,
       "ext": "./json/TVB云播.json"
     },
-    {
-      "key": "csp_农民",
-      "name": "💯农民影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/农民影视.json"
-    },
+
     {
       "key": "csp_xBPQ_奇优",
       "name": "💯精品极速",
