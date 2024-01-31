@@ -849,34 +849,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
-            "key": "腾讯1",
-            "name": "🌏少儿频道🌏”专区",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/腾讯.js"
-        },
-        {
-            "key": "芒果1",
-            "name": "🎈 少儿频道2",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/忙果.js"
-        },
-        {
-            "key": "奇艺1",
-            "name": "🎈 少儿频道3",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/异兽.js"
-        },
-        {
-            "key": "优酷1",
-            "name": "🎈 少儿频道4",
-            "type": 3,
-            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/优酷.js"
-        },
+    
          {
             "key": "小灯塔",
             "name": "🌏 小灯塔",
