@@ -44,6 +44,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"drpy_js_酷狗MV","name":"💽酷狗音乐","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷狗MV.js"},
+{"key":"drpy_js_酷奇MV","name":"💽酷奇音乐","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"},
  {
       "key": "drpy_js_奇珍异兽",
       "name": "🚩爱奇艺",
