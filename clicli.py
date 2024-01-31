@@ -35,6 +35,15 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
+     {
+      "key": "MV大全",
+      "name": "💽MV大全",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
  {
       "key": "drpy_js_奇珍异兽",
       "name": "🚩爱奇艺",
