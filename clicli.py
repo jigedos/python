@@ -17,7 +17,7 @@
   "sites": [
     {
       "key": "csp_非凡",
-      "name": "公众号：非凡小小240122",
+      "name": "公众号：非凡小小240201",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -79,44 +79,18 @@
     },
      {
       "key": "淘片资源",
-      "name": "3🍉淘片资源",
+      "name": "🐅淘片资源",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
       "playUrl": "",
       "categories": [
       ]
       },
-      {
-      "key": "极速资源",
-      "name": "4🍉极速资源AD",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json/",
-      "playUrl": "",
-      "categories": [
-      ]
-      },
-    {
-      "key": "卧龙资源",
-      "name": "5🍉卧龙资源AD",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-    {
-      "key": "速影资源",
-      "name": "7🍉速影资源AD",
-      "type": 1,
-      "api": "https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com/inc/apijson.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
+   
             {
       "key": "荐片影视",
-      "name": "8🍉荐片影视",
+      "name": "🌴荐片影视",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
@@ -124,7 +98,7 @@
    
     {
       "key": "Voflix",
-      "name": "9🍉Voflix影院",
+      "name": "🍁Voflix影院",
       "type": 1,
       "api": "http://voflix.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -133,101 +107,27 @@
     },
    
 
-    {
-      "key": "ikun资源",
-      "name": "11🍉ikun资源",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "飘零影视",
-      "name": "12🍉飘零影视",
-      "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
      {
       "key": "飞速资源",
-      "name": "13🍉飞速资源AD",
+      "name": "🌿飞速资源AD",
       "type": 1,
       "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/",
       "playUrl": "",
       "categories": [
       ]
       },
-	   {
-      "key": "新浪资源",
-      "name": "14🍉新浪资源AD",
-      "type": 0,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
-      "playUrl": "",
-      "categories": [
-      ]
-      },
-  
-      {
-      "key": "豪华资源",
-      "name": "15🍉豪华资源AD",
-      "type": 0,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
-      "playUrl": "",
-      "categories": [
-      ]
-      },
-      {
-      "key": "最大资源",
-      "name": "16🍉最大资源",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
- 
-      {
-      "key": "量子资源",
-      "name": "18🍉量子资源AD",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
-      {
-      "key": "U酷资源",
-      "name": "19🍉U酷资源AD",
-      "type": 0,
-      "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
+	
 	   {
       "key": "魔都资源",
-      "name": "20🍉魔都动漫",
+      "name": "🌲魔都动漫",
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
       },
-      {
-      "key": "快车资源",
-      "name": "21🍉快车资源AD",
-      "type": 0,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
+
      
     {
       "key": "drpy_js_360影视",
@@ -347,13 +247,7 @@
       "filterable": 1,
       "jar": "./jar/xyqa.jar"
     },
-    {
-      "key": "js_v2-jrly",
-      "name": "🏵️嘉年华",
-      "type": 3,
-      "api": "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
-      "ext": "./js/嘉良.js"
-    },
+   
     {
       "key": "csp_lgz_feifei",
       "name": "🌺菲芳C",
@@ -364,16 +258,7 @@
       "filterable": 0,
       "ext": "{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"
     },
-    {
-      "key": "宅腐APP",
-      "name": "🌻腐宅",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-    },
+
     {
       "key": "新建",
       "name": "🌷新6V[2]",
@@ -395,27 +280,7 @@
       "jar": " ./jar/fan1.txt",
       "ext": "http://op.ysdqjs.cn"
     },
-    {
-      "key": "1a05b72ecc4cb6326f046a5585f3432b",
-      "name": "🍄卧龙AD",
-      "jar": " ./jar/fan1.txt",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
-    },
-    {
-      "key": "3a565658ffb7ec926e61756240866e64",
-      "name": "🏝️无极AD",
-      "jar": " ./jar/fan1.txt",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod/"
-    },
-    {
-      "key": "5c768286e6045c44abdfae6fd627b9fc",
-      "name": "🎍999",
-      "jar": " ./jar/fan1.txt",
-      "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod/"
-    },
+
     {
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
       "name": "🏖️淘片AD",
@@ -476,7 +341,7 @@
     },
     {
       "key": "小城",
-      "name": "🚘纯净C",
+      "name": "🚘纯净+K歌",
       "type": 1,
       "api": "http://cj.xcqq.vip:5566/api.php/provide/vod",
       "searchable": 1,
@@ -484,54 +349,7 @@
       "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
     },
 
-    {
-      "key": "03影院",
-      "name": "✈️03影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://www.03yy.co",
-        "数组": "<div class=\"pic-content pic-width-2\">&&</div",
-        "副标题": "<span>&&</span>",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "搜索模式": "1",
-        "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
-        "搜索副标题": "note\">&&</div>",
-        "搜索链接": "href=\"&&\"",
-        "线路二次截取": "<ul id=\"playlist\">&&</ul",
-        "线路数组": " <li&&li>",
-        "线路标题": ">&&<",
-        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "Auete",
-      "name": "✈️奥特",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "✈️厂长2",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "ext": "https://www.czzy88.com/",
-      "filterable": 1,
-      "jar": "./jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd"
-    },
+   
     {
       "key": "云播",
       "name": "✈️云播",
@@ -697,16 +515,6 @@
       "ext": "https://www.libvio.pro/"
     },
 
-    {
-      "key": "南坊",
-      "name": "✈️南坊",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
-    },
   
     {
       "key": "csp_SP33",
