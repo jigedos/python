@@ -10,15 +10,6 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
 
@@ -30,31 +21,17 @@
     {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/"},
     {"key":"csp_Xinsj","name":"视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hdmyy.com/"},
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_MLYS","name":"毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
-    {"key":"csp_YQKan ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"南坊","name":"南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
+    {"key":"csp_YQKan ","name":"一起看AD","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
     {"key": "小柚","name": "小柚","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
-    {"key": "萌米","name": "萌米","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
-    {"key": "嘿嘿","name": "嘿嘿","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
-    {"key": "电影","name": "电影","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"},
-    {"key": "星奇","name": "星奇","type": 3,"api": "csp_AppMao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
-    {"key":"九六","name":"九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Bttoo","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Ddrk","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_SP33","name":"三三","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-    {"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/"}, 
     {"key":"csp_Libvio","name": "Libvio","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
-    {"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Ying","name":"樱花动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Ysj","name":"异界动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
+  
     {"key":"csp_Anime1","name":"日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
 
     {"key":"csp_虎牙","name":"虎牙直播","type": 3,"api":"csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/虎牙直播.json"},
     {"key":"csp_斗鱼","name":"斗鱼直播","type": 3,"api":"csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/斗鱼直播.json"},
     {"key":"csp_企鹅体育","name":"企鹅体育","type": 3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/企鹅直播.json"},
     {"key":"csp_Biliych","name":"看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/Biliych.json"},
-    {"key":"csp_短视频","name":"短视频","type": 3,"api":"csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/短视频.json"},
-
     
     {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/幼儿乐园.json"},
     {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fgit.cf/2hacc/TVBox/main/json/少儿教育.json"},
