@@ -849,6 +849,174 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+            "key": "腾讯1",
+            "name": "🌏少儿频道🌏”专区",
+            "type": 3,
+            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/腾讯.js"
+        },
+        {
+            "key": "芒果1",
+            "name": "🎈 少儿频道2",
+            "type": 3,
+            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/忙果.js"
+        },
+        {
+            "key": "奇艺1",
+            "name": "🎈 少儿频道3",
+            "type": 3,
+            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/异兽.js"
+        },
+        {
+            "key": "优酷1",
+            "name": "🎈 少儿频道4",
+            "type": 3,
+            "api": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/drpy2.min.js",
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/优酷.js"
+        },
+         {
+            "key": "小灯塔",
+            "name": "🌏 小灯塔",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔百科.json"
+        },
+        {
+            "key": "小灯塔科学",
+            "name": "🌏 小灯塔科学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔科学.json"
+        },
+        {
+            "key": "小灯塔地理",
+            "name": "🌏 小灯塔地理",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔地理.json"
+        },
+        {
+            "key": "小灯塔国学",
+            "name": "🌏 小灯塔国学",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔国学.json"
+        },
+        {
+            "key": "小灯塔人文",
+            "name": "🌏 小灯塔人文",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔人文.json"
+        },
+        {
+            "key": "儿童拼音",
+            "name": "🌏 儿童拼音",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童拼音.json"
+        },
+        {
+            "key": "儿童识字",
+            "name": "🌏 儿童识字",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童识字.json"
+        },
+        {
+            "key": "儿童英语",
+            "name": "🌏 儿童英语",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童英语.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": "🌏 儿童硬笔",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童硬笔.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": "🌏 儿童思维",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童思维.json"
+        },
+        {
+            "key": "儿童口才",
+            "name": "🌏 儿童口才",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童口才.json"
+        },
+        {
+            "key": "儿童编程",
+            "name": "🌏 儿童编程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童编程.json"
+        },
+        {
+            "key": "儿童武术",
+            "name": "🌏 儿童武术",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童武术.json"
+        },
+        {
+            "key": "兴趣培养",
+            "name": "🌏 兴趣培养",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/兴趣培养.json"
+        },
     {
       "key": "幼儿教育",
       "name": "📚幼儿教育",
