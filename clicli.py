@@ -16,15 +16,17 @@
   ],
   "sites": [
     {
-      "key": "csp_非凡",
-      "name": "公众号：非凡小小240201",
+    
+      "key": "csp_77",
+      "name": "公众号：非凡小小240205",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/非凡资源网.json"
+      "jar": "./jar/77.jar"
     },
+     
     {
       "key": "py_cctv",
       "name": "CCTV转播",
@@ -237,16 +239,7 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },
-    {
-      "key": "csp_77",
-      "name": "7️⃣七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/77.jar"
-    },
+   
     {
       "key": "csp_Xunlei8",
       "name": "⚡迅雷",
@@ -477,7 +470,15 @@
       "filterable": 1,
       "ext": "./json/dyg.json"
     },
-   
+      { "key": "csp_非凡",
+      "name": "非凡",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/非凡资源网.json"
+    },
     {
       "key": "csp_非凡资源",
       "name": "✈️非凡",
