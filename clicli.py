@@ -15,18 +15,17 @@
     }
   ],
   "sites": [
+
     {
-    
-      "key": "csp_77",
+      "key": "csp_xBPQ_奇优",
       "name": "公众号：非凡小小240205",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/77.jar"
-    },
-     
+      "ext": "./json/奇优影视.json"
+    }, 
     {
       "key": "py_cctv",
       "name": "CCTV转播",
@@ -173,16 +172,6 @@
     },
 
     {
-      "key": "csp_xBPQ_奇优",
-      "name": "💯精品极速",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/奇优影视.json"
-    },
-    {
       "key": "csp_疯狗",
       "name": "💯纯净秒播",
       "type": 3,
@@ -212,6 +201,18 @@
       "searchable": 1,
       "quickSearch": 1
     },
+        {
+    
+      "key": "csp_77",
+      "name": "7️⃣77",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/77.jar"
+    },
+    
     {
       "key": "csp_qx",
       "name": "🌸七星视界",
