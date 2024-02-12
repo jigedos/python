@@ -1,12 +1,14 @@
 {
   "spider": "./jar/nb1202.jar;md5;80e2d5045e8cd48beb132870b4a339e0",
   "wallpaper": "http://xhww.fun:63/img.php",
-  "lives": [
+
+
+   "lives": [
     {
       "group": "redirect",
       "channels": [
         {
-          "name": "『live",
+          "name": "redirect",
           "urls": [
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbGltb245MDYvUHl0aG9uL3Jhdy9tYXN0ZXIvc29ydHMvc2hlbGxfc29ydC5weQ=="
           ]
