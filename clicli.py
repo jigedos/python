@@ -8,7 +8,7 @@
         {
           "name": "『live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ppZ2Vkb3MvZ2Vla2NvbXB1dGVycy9tYWluLzkwMC9zZXRibG9ja2luZy5mbGFn"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbGltb245MDYvUHl0aG9uL3Jhdy9tYXN0ZXIvc29ydHMvc2hlbGxfc29ydC5weQ=="
           ]
         }
       ]
