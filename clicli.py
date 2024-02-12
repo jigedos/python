@@ -2,20 +2,8 @@
   "spider": "./jar/nb1202.jar;md5;80e2d5045e8cd48beb132870b4a339e0",
   "wallpaper": "http://xhww.fun:63/img.php",
 
+   "lives":[{"name":"live","type":0,"url":"https://gitee.com/limon906/Python/raw/master/sorts/shell_sort.py","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
-   "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbGltb245MDYvUHl0aG9uL3Jhdy9tYXN0ZXIvc29ydHMvc2hlbGxfc29ydC5weQ=="
-          ]
-        }
-      ]
-    }
-  ],
   "sites": [
 
     {
