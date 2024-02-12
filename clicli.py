@@ -6,7 +6,7 @@
  "lives": [
     {
       "name": "live",
-      "url": "https://gitee.com/limon906/Python/raw/master/sorts/shell_sort.py",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/geekcomputers/main/900/setblocking.flag",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.12.13",
