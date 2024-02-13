@@ -90,6 +90,372 @@
       "filterable": 1,
       "ext": "./json/七新影视.json"
     },
+
+ {
+      "key": "meowtv_Mmys",
+      "name": "1萌米┃影视",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
+ {
+      "key": "meowtv_ddys",
+      "name": "2低端┃影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+
+   {
+      "key": "meowtv_nmys",
+      "name": "3农民┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/农民影视.js"
+    },
+
+ {
+      "key": "meowtv_wfys",
+      "name": "4网飞┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/网飞影视.js"
+    },
+ {
+      "key": "meowtv_dyxs",
+      "name": "5先生┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/电影先生.js"
+    },
+
+  {
+      "key": "meowtv_mays",
+      "name": "6米爱┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/米爱影视.js"
+    },
+    {
+      "key": "meowtv_qxys",
+      "name": "7秋霞┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/秋霞影视.js"
+    },
+    {
+      "key": "meowtv_sjys",
+      "name": "8视觉┃影视",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/视觉影视.js"
+    },
+
+{
+      "key": "meowtv_thys",
+      "name": "9土豪┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/土豪影视.json"
+    },
+
+ {
+      "key": "meowtv_ynys",
+      "name": "10鸭奈┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+
+   {
+      "key": "meowtv_bdys",
+      "name": "11哔嘀┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/哔嘀影视.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+ {
+      "key": "meowtv_phys",
+      "name": "12胖虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/胖虎影视.json"
+    },
+
+ {
+      "key": "meowtv_dgys",
+      "name": "13达龟┃影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/达龟影视.json"
+    },
+   {
+      "key": "meowtv_akyy",
+      "name": "14爱看┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/爱看影视.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+        {
+      "key": "meowtv_akys",
+      "name": "15爱看┃影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[排序:lz线路,kuaik]",
+      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+    },
+  {
+      "key": "meowtv_Shys",
+      "name": "16双黄┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+ {
+      "key": "meowtv_myys",
+      "name": "17麻衣┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/麻衣影视.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+ {
+      "key": "meowtv_Kkys",
+      "name": "18库库┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/库库影视.json",
+      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+    },
+
+  {
+      "key": "meowtv_wwys",
+      "name": "19五五┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/五五影视.json"
+    },
+
+  {
+      "key": "meowtv_kcys",
+      "name": "20酷茶┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/酷茶影视.json"
+    },
+ {
+      "key": "meowtv_xxys",
+      "name": "21新新┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+ {
+      "key": "meowtv_lzzy",
+      "name": "22量子┃资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+   {
+      "key": "meowtv_snzy",
+      "name": "23索尼┃资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+   
+    {
+      "key": "meowtv_kkzy",
+      "name": "24快看┃资源",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "国产动漫",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },
+ {
+      "key": "meowtv_bydj",
+      "name": "25榜一┃短剧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/xp/榜一短剧.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "meowtv_hmdj",
+      "name": "26河马┃短剧",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+    },
+    {
+      "key": "meowtv_rxdj",
+      "name": "27锐星┃短剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6822/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      {
       "key": "淘片资源",
       "name": "🐅淘片资源",
