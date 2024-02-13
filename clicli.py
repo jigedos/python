@@ -91,16 +91,7 @@
       "ext": "./json/七新影视.json"
     },
 
- {
-      "key": "meowtv_Mmys",
-      "name": "1萌米影视",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
+
  {
       "key": "meowtv_ddys",
       "name": "2低端影视",
@@ -443,7 +434,16 @@
       "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
     },
 
-
+ {
+      "key": "meowtv_Mmys",
+      "name": "1萌米影视S",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
 
 
 
