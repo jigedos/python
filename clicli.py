@@ -19,7 +19,7 @@
 
     {
       "key": "csp_xBPQ_奇优",
-      "name": "公众号：非凡小小240205",
+      "name": "公众号：非凡小小240214",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
