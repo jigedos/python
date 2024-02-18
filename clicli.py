@@ -19,7 +19,7 @@
 
     {
       "key": "csp_xBPQ_奇优",
-      "name": "公众号：非凡小小240214",
+      "name": "公众号：非凡小小240217",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -94,7 +94,7 @@
 
  {
       "key": "meowtv_ddys",
-      "name": "2低端影视",
+      "name": "1低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -103,30 +103,10 @@
       "playerType": 2
     },
 
-   {
-      "key": "meowtv_nmys",
-      "name": "3农民影视",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/农民影视.js"
-    },
 
  {
-      "key": "meowtv_wfys",
-      "name": "4网飞影视",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/网飞影视.js"
-    },
- {
       "key": "meowtv_dyxs",
-      "name": "5先生影视",
+      "name": "2先生影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -137,7 +117,7 @@
 
   {
       "key": "meowtv_mays",
-      "name": "6米爱影视",
+      "name": "3米爱影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -145,19 +125,10 @@
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/js/米爱影视.js"
     },
-    {
-      "key": "meowtv_qxys",
-      "name": "7秋霞影视",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/秋霞影视.js"
-    },
+    
     {
       "key": "meowtv_sjys",
-      "name": "8视觉影视",
+      "name": "4视觉影视",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -168,7 +139,7 @@
 
 {
       "key": "meowtv_thys",
-      "name": "9土豪AD",
+      "name": "5土豪AD",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -179,7 +150,7 @@
 
  {
       "key": "meowtv_ynys",
-      "name": "10鸭奈影视",
+      "name": "6鸭奈影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -191,7 +162,7 @@
 
    {
       "key": "meowtv_bdys",
-      "name": "11哔嘀影视",
+      "name": "7哔嘀2k纯净",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -204,7 +175,7 @@
 
  {
       "key": "meowtv_dgys",
-      "name": "12达龟影视",
+      "name": "8达龟影视AD",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -214,7 +185,7 @@
     },
    {
       "key": "meowtv_akyy",
-      "name": "13爱看",
+      "name": "9爱看",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -225,7 +196,7 @@
     },
         {
       "key": "meowtv_akys",
-      "name": "14爱看(备用)",
+      "name": "10爱看(备用)",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -236,7 +207,7 @@
     },
   {
       "key": "meowtv_Shys",
-      "name": "15双黄影视",
+      "name": "11双黄影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -247,7 +218,7 @@
     },
  {
       "key": "meowtv_myys",
-      "name": "16麻衣影视",
+      "name": "12麻衣影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -258,7 +229,7 @@
     },
  {
       "key": "meowtv_Kkys",
-      "name": "17库库影视",
+      "name": "13库库影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -270,7 +241,7 @@
 
   {
       "key": "meowtv_wwys",
-      "name": "18五五影视",
+      "name": "14五五影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -281,7 +252,7 @@
 
   {
       "key": "meowtv_kcys",
-      "name": "19酷茶影视",
+      "name": "15酷茶影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -291,7 +262,7 @@
     },
  {
       "key": "meowtv_xxys",
-      "name": "20新新影视",
+      "name": "16新新影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -301,7 +272,7 @@
     },
  {
       "key": "meowtv_lzzy",
-      "name": "21量子资源",
+      "name": "17量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -327,7 +298,7 @@
     },
    {
       "key": "meowtv_snzy",
-      "name": "22索尼资源",
+      "name": "18索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -364,7 +335,7 @@
    
     {
       "key": "meowtv_kkzy",
-      "name": "23快看资源",
+      "name": "19快看资源",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
       "searchable": 1,
@@ -393,7 +364,7 @@
     },
  {
       "key": "meowtv_bydj",
-      "name": "24榜一短剧",
+      "name": "20榜一短剧",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -404,7 +375,7 @@
     },
     {
       "key": "meowtv_hmdj",
-      "name": "25河马短剧",
+      "name": "21河马短剧",
       "type": 3,
       "api": "csp_Duanjuw",
       "searchable": 1,
@@ -414,7 +385,7 @@
     },
     {
       "key": "meowtv_rxdj",
-      "name": "26锐星短剧",
+      "name": "22锐星短剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -425,7 +396,7 @@
 
    {
       "key": "meowtv_fqdj",
-      "name": "27番茄短剧",
+      "name": "23番茄短剧",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -434,16 +405,7 @@
       "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
     },
 
- {
-      "key": "meowtv_Mmys",
-      "name": "1萌米影视S",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
+
 
 
 
@@ -516,16 +478,6 @@
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/360影视.js"
     },
   
-    {
-      "key": "csp_Free",
-      "name": "💯Free影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/Free影视.json"
-    },
    
     {
       "key": "csp_TVB",
@@ -538,16 +490,6 @@
       "ext": "./json/TVB云播.json"
     },
 
-    {
-      "key": "csp_疯狗",
-      "name": "💯纯净秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/疯狗影视.json"
-    },
 
     {
       "key": "csp_热播",
@@ -619,17 +561,7 @@
       "filterable": 1,
       "jar": "./jar/xyqa.jar"
     },
-   
-    {
-      "key": "csp_lgz_feifei",
-      "name": "🌺菲芳C",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"
-    },
+  
 
     {
       "key": "新建",
@@ -642,16 +574,6 @@
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },
 
-
-    {
-      "key": "DGBNS",
-      "name": "🌾天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "jar": " ./jar/fan1.txt",
-      "ext": "http://op.ysdqjs.cn"
-    },
 
     {
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
@@ -684,7 +606,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "✈️一起看1",
+      "name": "✈️一起看1AD",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -839,7 +761,7 @@
       "ext": "./json/dyg.json"
     },
       { "key": "csp_非凡",
-      "name": "非凡",
+      "name": "✈️非凡1",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -849,7 +771,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "✈️非凡",
+      "name": "✈️非凡2",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -884,17 +806,7 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "Lib",
-      "name": "✈️利播",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pro/"
-    },
-
+  
   
     {
       "key": "csp_SP33",
@@ -1219,146 +1131,6 @@
       "changeable": 1
     },
     
-         {
-            "key": "小灯塔",
-            "name": "🌏 小灯塔",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔百科.json"
-        },
-        {
-            "key": "小灯塔科学",
-            "name": "🌏 小灯塔科学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔科学.json"
-        },
-        {
-            "key": "小灯塔地理",
-            "name": "🌏 小灯塔地理",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔地理.json"
-        },
-        {
-            "key": "小灯塔国学",
-            "name": "🌏 小灯塔国学",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔国学.json"
-        },
-        {
-            "key": "小灯塔人文",
-            "name": "🌏 小灯塔人文",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/小灯塔人文.json"
-        },
-        {
-            "key": "儿童拼音",
-            "name": "🌏 儿童拼音",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童拼音.json"
-        },
-        {
-            "key": "儿童识字",
-            "name": "🌏 儿童识字",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童识字.json"
-        },
-        {
-            "key": "儿童英语",
-            "name": "🌏 儿童英语",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童英语.json"
-        },
-        {
-            "key": "儿童硬笔",
-            "name": "🌏 儿童硬笔",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童硬笔.json"
-        },
-        {
-            "key": "儿童思维",
-            "name": "🌏 儿童思维",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童思维.json"
-        },
-        {
-            "key": "儿童口才",
-            "name": "🌏 儿童口才",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童口才.json"
-        },
-        {
-            "key": "儿童编程",
-            "name": "🌏 儿童编程",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童编程.json"
-        },
-        {
-            "key": "儿童武术",
-            "name": "🌏 儿童武术",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/儿童武术.json"
-        },
-        {
-            "key": "兴趣培养",
-            "name": "🌏 兴趣培养",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/兴趣培养.json"
-        },
     {
       "key": "幼儿教育",
       "name": "📚幼儿教育",
