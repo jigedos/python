@@ -134,7 +134,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	   
+	    {
+      "key": "meowtv_Mmys",
+      "name": "🍉萌米影视S",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
     {
       "key": "宅腐APP",
       "name": "🍉腐宅",
