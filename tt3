@@ -970,7 +970,7 @@
     },
     {
       "key": "csp_短剧",
-      "name": "📱短剧A",
+      "name": "📱短剧网",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -978,6 +978,10 @@
       "filterable": 1,
       "ext": "./json/短剧网.json"
     },
+      {"key": "meowtv_fqdj","name": "📱番茄短剧","type": 3,"api": "MJS_fqdj"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/番茄短剧.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+
+    {"key": "meowtv_hmdj","name": "📱河马短剧","type": 3,"api": "csp_Duanjuw"    ,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"},
+    {"key": "meowtv_rxdj","name": "📱锐星短剧","type": 3,"api": "csp_AppYsV2"    ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.84.103:6822/api.php/app/"},
     {
       "key": "兴趣健身",
       "name": "🦾兴趣健身",
