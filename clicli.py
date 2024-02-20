@@ -26,6 +26,16 @@
       "filterable": 0,
       "ext": "./py/py_cctv_1.py"
     },
+     {
+      "key": "直播转点播",
+      "name": "📺︎┃电视┃点播",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/recover_js/master/js/zb.json"
+    },
     {
       "key": "MV大全",
       "name": "💽MV大全",
