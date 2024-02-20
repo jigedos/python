@@ -15,7 +15,7 @@
   "sites": [
 
     {"key":"非凡影视","name":"公众号：非凡小小","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/go9232136/gao/-/raw/master/json/%E9%9D%9E%E5%87%A1.json?inline=false"},
-{"key":"开心影视","name":"更新：240221","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/go9232136/gao/-/raw/master/json/xiaoxiao.json?inline=false"},
+{"key":"小小","name":"更新：240221","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/go9232136/gao/-/raw/master/json/xiaoxiao.json?inline=false"},
     {
       "key": "py_cctv",
       "name": "CCTV转播",
