@@ -71,7 +71,23 @@
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/百忙无果.js"
     },
 
+    {
+      "key": "QTV",
+      "name": "🚩腾讯4K",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/txvip.js"
+    },
     {"key": "meowtv_yksp","name": "🚩优酷视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+        {
+      "key": "sohu",
+      "name": "🚩搜狐视频",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "parse:并发"
+    },
     {"key": "meowtv_sgys","name": "🚩搜狗视频","type": 3,"api": "MJS_sgys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/搜狗视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
 
        {"key": "meowtv_shys","name": "骚火影视","type": 3,"api": "MJS_shys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/骚火影视.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
