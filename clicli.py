@@ -911,7 +911,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/nvtuanrewu.json"
+      "ext": "./js/nvtuanrewu.json"
     },
     {
       "key": "csp_短剧",
