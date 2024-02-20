@@ -1146,7 +1146,7 @@
       "url": "http://jx.meowtv.cn/?url="
     },
     {
-      "name": "🌎DB",
+      "name": "官源解析",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -1183,7 +1183,7 @@
       }
     },
    {
-      "name": "彩虹",
+      "name": "非凡X解析",
       "type": 1,
       "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
       "ext": {
