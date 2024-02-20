@@ -77,26 +77,12 @@
       "api": "./lib/drpy2.min.js",
       "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr//js/百忙无果.js"
     },
-    {
-      "key": "csp_xBPQ_玖八",
-      "name": "💯优爱腾",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/98影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "💯官源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/七新影视.json"
-    },
+
+    {"key": "meowtv_yksp","name": "🚩优酷视频","type": 3,"api": "MJS_yksp"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "meowtv_sgys","name": "🚩搜狗视频","type": 3,"api": "MJS_sgys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/搜狗视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+
+       {"key": "meowtv_shys","name": "骚火影视","type": 3,"api": "MJS_shys"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/骚火影视.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+
     {
       "key": "meowtv_Mmys",
       "name": "萌米影视",
