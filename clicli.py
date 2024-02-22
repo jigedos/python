@@ -14,8 +14,8 @@
   ],
   "sites": [
 
-    {"key":"","name":"公众号：非凡小小"},
-{"key":"","name":"更新：24.2.22"},
+{"key":"csp_DouDou","name":"🔍更新：24.2.22","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+
     {
       "key": "py_cctv",
       "name": "CCTV转播",
