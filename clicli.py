@@ -125,9 +125,9 @@
     },
    
   	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
-	{"key":"碟调影视","name":"碟调影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/碟调.js"},
+	{"key":"碟调影视","name":"碟调影视","type":3,"api":"./JS/drpy.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/%E7%A2%9F%E8%B0%83%E5%BD%B1%E8%A7%86.js"},
 
-  {"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
+  {"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影牛.json"},
     {
       "key": "meowtv_ddys",
       "name": "1低端影视",
