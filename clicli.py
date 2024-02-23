@@ -124,8 +124,10 @@
       "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
     },
    
-  
-  
+  	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
+	{"key":"碟调影视","name":"碟调影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/碟调.js"},
+
+  {"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
     {
       "key": "meowtv_ddys",
       "name": "1低端影视",
